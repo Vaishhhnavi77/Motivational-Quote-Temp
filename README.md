@@ -7,7 +7,15 @@ This is a simple motivational quote webpage built using **HTML & CSS**. I'm curr
 - Using Google Fonts for typography  
 - Centering elements with CSS  
 - Styling images with borders  
+<<<<<<< HEAD
 - Improving layout with margins and padding  
+=======
+- Improving layout with margins and padding 
+
+## This is how it looks 
+
+<img src="./assets/images/Screenshot 2025-03-17 223507.png">
+>>>>>>> ecb0800 (adding ss in readme)
 
 ## 📌 My Goal  
 I am trying to **maintain consistency** by building and sharing mini projects regularly. Stay tuned for more!  
